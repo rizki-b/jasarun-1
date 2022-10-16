@@ -21,16 +21,16 @@ global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%
 global.email = 'denyp857@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'hmzz ofc' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'TEPI HITAM YANG TERSAKITI' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'TEPI HITAM' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Ragil ofc' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Ragil HITAM YANG TERSAKITI' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Ragil HITAM' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6285893481599']
-global.premium = ['6285893481599']
-global.packname = 'hmz'
-global.ownerr = ['hmz ofc']
-global.author = 'hmzz'
+global.owner = ['6283136890848']
+global.premium = ['6283136890848']
+global.packname = 'Ragill'
+global.ownerr = ['Ragil ofc']
+global.author = 'Ragil'
 global.sessionName = './sessionye/haikal'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
